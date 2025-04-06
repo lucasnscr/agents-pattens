@@ -52,7 +52,7 @@ The Multi-agent Pattern is particularly useful for:
 
 ### Prerequisites
 
-- Java 17 or higher
+- Java 21 or higher
 - Maven
 - OpenAI API key
 

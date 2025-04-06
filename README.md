@@ -42,7 +42,7 @@ The Multi-agent Pattern enables collaboration between specialized AI agents to s
 
 ### Prerequisites
 
-- Java 17 or higher
+- Java 21 or higher
 - Maven
 - OpenAI API key
 
